@@ -1,6 +1,7 @@
 {
   "packs": [
-    "ByteAndAntares.json"
+    "ByteAndAntares.json",
+    "ArkonInu.json"
   ],
   "homeserver_url": "https://matrix.sxs.vc"
 }
