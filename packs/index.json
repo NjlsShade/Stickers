@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "ByteAndAntares.json"
+  ],
+  "homeserver_url": "https://matrix.sxs.vc"
+}
